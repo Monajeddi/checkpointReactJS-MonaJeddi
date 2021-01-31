@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.navbar-brand{
+  font-style: italic;
+}
+.nav-item{
+  
+   padding-left:30px;
+  padding-right:30px;
+  
+}
+.btn{
+  text-decoration: blue;
+}
+
+.test{
+  margin-top: 40px;
+  background-image: url('https://thepersuaders.fr/wp-content/uploads/2020/11/cabinet-conseil-digital-header-accueil-1536x791.png');
+  height: 400px;
+
+}
+
+h1{
+  padding-top: 150px;
+  font-style: italic;
+  
+
+}
+h2{
+  text-align: left;
+  font-style: italic;
+}
+h5{
+  margin-bottom: 30px;
+  font-style: italic;
+  text-decoration: blue;
+  
+
+}
+.blocks{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.adress{
+  margin-top: 55px;
+  margin-right: 70px;
+  
+}
+
+.forms{
+  display: flex;
+  justify-content: center;
+  margin-right: 60px;
+  margin-top: 40px;
+}
+
+
+.name{
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.btn{
+  margin-bottom: 50px;
+  background-color: #6737e8;
+  border-color: #6737e8;
+  text-decoration: darkgray;
+}
+.btnn{
+  background-color: #6737e8;
+  border-color: #6737e8;
+  text-decoration: darkgray;
+  border-radius: 6px;
+  height: 45px;
+  width: 100px;
+
+}
+.btn-outline-success{
+  text-decoration: darkblue;
+}
+
+
+.card{
+  background-color:#9c72b8c2;
+  height: 240px;
+}
+
+.card-title{
+  text-align: left;
+  font-weight: bold;
+}
+.card-text{
+  text-align: left;
+}
